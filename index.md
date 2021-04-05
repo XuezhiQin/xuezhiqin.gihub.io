@@ -23,4 +23,4 @@ I have got B.E.(Mechanical Engineering) and B.S.(Computer Science and Technology
 
 
 ### Contact
-You can click here to [contact me](mailto:qinxz1414@qq.com) by e-mail.
+You can click here to [Contact Me](mailto:qinxz1414@qq.com) by e-mail.
