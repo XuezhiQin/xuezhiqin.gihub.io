@@ -14,7 +14,7 @@ I have got B.E.(Mechanical Engineering) and B.S.(Computer Science and Technology
 
 
 ### Honor
-*1st Prize in National College Mechanical Innovation Competition
+*1st Prize in National College Mechanical Innovation Competition**<sup>[*](http://umic.ckcest.cn/)</sup>**
 *1st Prize in National Undergraduate Electronics Design Contest
 *1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling
 *2st Prize in National University Students Intelligent Car Race
